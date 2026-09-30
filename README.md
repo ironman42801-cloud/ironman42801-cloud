@@ -1,399 +1,383 @@
-<div align="center">⚡ IRONMAN
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:151515,100:3b2500&height=220&section=header&text=IRONMAN&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20SYSTEMS%20%7C%20OPEN%20SOURCE%20%7C%20RESEARCH&descAlignY=62&descSize=18" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=F5B642&center=true&vCenter=true&width=750&lines=Building+AI+systems+from+the+terminal.;Exploring+Agentic+AI+%2B+RAG+%2B+Local+LLMs.;Designing+modular+AI+architectures.;Turning+ideas+into+working+systems.;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Rebuild+%E2%9A%A1" /><br><br>
 
-"AI / ML • Agentic AI • Open Source • Systems • Linux"
+<a href="https://github.com/ironman42801-cloud">
+<img src="https://img.shields.io/badge/@ironman42801--cloud-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a><img src="https://komarev.com/ghpvc/?username=ironman42801-cloud&style=for-the-badge&color=161616&label=PROFILE+VIEWS"/></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+AI+systems+from+the+terminal.;Exploring+Agentic+AI+%2B+RAG+%2B+Local+LLMs.;Turning+ideas+into+working+open-source+systems.;Learning.+Building.+Breaking.+Rebuilding." alt="Typing SVG" /><br/>""GitHub" (https://img.shields.io/badge/GitHub-ironman42801--cloud-181717?style=for-the-badge&logo=github)" (https://github.com/ironman42801-cloud)
-""Python" (https://img.shields.io/badge/Python-Expertise-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/)
-""Linux" (https://img.shields.io/badge/Linux-Lover-FCC624?style=for-the-badge&logo=linux&logoColor=black)" (https://www.linux.org/)
-""Open Source" (https://img.shields.io/badge/Open%20Source-Builder-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)" (https://opensource.org/)
+<div align="center">◈ "SYSTEM ONLINE"
+
+<table>
+<tr>
+<td width="50%">🧠 CORE
+
+AI / ML
+Agentic AI
+Generative AI
+Local LLMs
+RAG Systems
+AI Memory
+
+</td><td width="50%">⚙️ SYSTEM
+
+Linux
+Python
+Rust
+C++
+FastAPI
+TUI
+Open Source
+
+</td>
+</tr>
+</table></div>---
+
+🪟 "01 // ABOUT ME"
+
+<table>
+<tr>
+<td width="60%" valign="top">⚡ IRONMAN
+
+I'm a CSE student and AI builder interested in understanding what happens behind modern AI systems.
+
+I like building things around:
+
+- 🤖 Agentic AI
+- 🧠 Local LLMs
+- 🔎 RAG & AI Memory
+- 🧩 Modular AI architectures
+- 🐧 Linux & Systems
+- 🖥️ Terminal User Interfaces
+- 🔬 AI research
+- 🔓 Open-source software
+
+«I don't just want to use AI.
+I want to understand how to build the systems behind it.»
+
+</td><td width="40%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=ironman42801-cloud&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5B642&icon_color=F5B642&text_color=AAAAAA&rank_icon=github" width="100%"/></td>
+</tr>
+</table>---
+
+🧊 "02 // AI ARCHITECTURE"
+
+<div align="center"><table>
+<tr><td align="center" width="25%">🧠
+
+CENTRAL BRAIN
+
+Local LLM
+Planning
+Reasoning
+Routing
+
+</td><td align="center" width="25%">🧩
+
+SUB-BRAINS
+
+Coding
+Research
+System
+Specialized AI
+
+</td><td align="center" width="25%">🗃️
+
+MEMORY
+
+RAG
+Vector DB
+Knowledge Graph
+Long-term Memory
+
+</td><td align="center" width="25%">⚙️
+
+TOOLS
+
+APIs
+Linux
+Files
+Automation
+
+</td></tr>
+</table>                         ┌───────────────────┐
+                         │    CENTRAL BRAIN  │
+                         │     LOCAL LLM     │
+                         └─────────┬─────────┘
+                                   │
+                 ┌─────────────────┼─────────────────┐
+                 │                 │                 │
+                 ▼                 ▼                 ▼
+           ┌──────────┐      ┌──────────┐      ┌──────────┐
+           │ CODING   │      │ RESEARCH │      │ SYSTEM   │
+           │ SUB-BRAIN│      │ SUB-BRAIN│      │  AGENT   │
+           └────┬─────┘      └────┬─────┘      └────┬─────┘
+                │                 │                 │
+                └─────────────────┼─────────────────┘
+                                  ▼
+                         ┌─────────────────┐
+                         │ MEMORY + TOOLS  │
+                         │ RAG + DATABASE  │
+                         └────────┬────────┘
+                                  ▼
+                         ┌─────────────────┐
+                         │   LINUX SERVER  │
+                         └─────────────────┘
 
 </div>---
 
-🧠 Who is Ironman?
+🤖 "03 // JARVIS"
 
-«I don't just want to use AI. I want to understand how to build the systems behind it.»
+<table>
+<tr>
+<td width="50%" valign="top">PROJECT VISION
 
-I'm Ironman, a CSE student focused on AI/ML, Generative AI, Agentic Systems, Local LLMs and open-source software.
+A modular personal AI system exploring:
 
-My main interest is building systems where different technologies work together:
+"Ollama" • "RAG" • "Agents" • "Memory" • "Tools"
 
-                 ┌──────────────────────┐
-                 │       IRONMAN        │
-                 │      AI SYSTEMS      │
-                 └──────────┬───────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-       AI / ML          AGENTS            SYSTEMS
-          │                 │                 │
-    ┌─────┴─────┐     ┌─────┴─────┐     ┌─────┴─────┐
-    │ GenAI     │     │ Tools     │     │ Linux     │
-    │ RAG       │     │ Memory    │     │ Servers   │
-    │ Embedding │     │ Planning  │     │ TUI       │
-    │ Fine-tune │     │ Pipelines │     │ Security  │
-    └───────────┘     └───────────┘     └───────────┘
+The architecture is designed around a central AI brain that can communicate with specialized sub-brains.
 
-I enjoy taking an idea from:
+</td><td width="50%" valign="top">TARGET CAPABILITIES
 
-Concept → Architecture → Prototype → Experiment → System
+✓ Local AI
+✓ Long-term memory
+✓ Tool access
+✓ Context management
+✓ Simulation
+✓ Specialized agents
+✓ Voice interaction
+✓ Linux control
+✓ Online / Offline modes
 
----
+</td>
+</tr>
+</table>---
 
-🚀 What I'm Building
+🖥️ "04 // TERMINAL IS HOME"
 
-🤖 Jarvis — Personal AI System
-
-A long-term open-source AI architecture exploring:
-
-- 🧠 Local LLMs with Ollama
-- 🔎 RAG-based long-term knowledge
-- 🛠️ Tool access and agent pipelines
-- 🧩 Modular sub-brains / specialized agents
-- 🗃️ Memory using databases, trees and graphs
-- 🧪 Isolated simulation and testing environments
-- 💻 Linux/system interaction
-- 📱 Phone + server + AI architecture
-- 🎙️ Voice interfaces
-- ⚡ Online / offline / realtime modes
-
-                         ┌──────────────┐
-                         │  CENTRAL AI  │
-                         │    BRAIN     │
-                         └──────┬───────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-        ┌─────▼─────┐     ┌────▼─────┐     ┌────▼─────┐
-        │ Coding AI │     │ Research  │     │ System   │
-        │ Sub-Brain │     │ Sub-Brain │     │  Agent   │
-        └─────┬─────┘     └────┬─────┘     └────┬─────┘
-              │                │                 │
-        ┌─────▼────────────────▼─────────────────▼─────┐
-        │             Memory + Tools + RAG             │
-        └─────────────────────┬────────────────────────┘
-                              │
-                       ┌──────▼──────┐
-                       │ Linux Server│
-                       └─────────────┘
-
----
-
-🧪 Current Research Interests
-
-I'm exploring ideas around:
-
-- 🧠 Agentic AI architectures
-- 🕸️ RAG and long-term AI memory
-- 🔀 Modular / branching AI systems
-- 🧬 Specialized sub-models
-- 🧪 Simulation before real-world execution
-- 🧠 Neuromorphic computing
-- ⚡ AI + unconventional computing
-- 🔬 AI architecture research
-- 🧩 Model specialization and knowledge transfer
-
-My approach:
-
-«Build the architecture first. Test the idea. Measure the result. Then improve it.»
-
----
-
-💻 Tech Stack
-
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Rust" (https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-"Bash" (https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-
-AI / ML
-
-"Ollama" (https://img.shields.io/badge/Ollama-000000?style=flat-square)
-"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-Areas:
-"LLMs" · "RAG" · "Embeddings" · "Agents" · "Fine-tuning" · "ML Pipelines" · "Data Processing"
-
-Development
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"GitLab" (https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-Linux / Terminal
-
-"Arch" (https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-"Debian" (https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-"Neovim" (https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-"Tmux" (https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-
-"Neovim" · "tmux" · "zsh" · "fish" · "fzf" · "ripgrep" · "yazi" · "lazygit" · "btop"
-
----
-
-🖥️ My Preferred Architecture
-
-I like systems where the terminal is not just a terminal — it is an interface to the entire system.
-
-              PHONE / WEB UI
-                    │
-                    ▼
-             ┌─────────────┐
-             │    API      │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │ AI AGENT    │
-             └──────┬──────┘
-                    │
-        ┌───────────┼───────────┐
-        ▼           ▼           ▼
-      LLM         RAG         TOOLS
-        │           │           │
-        └───────────┼───────────┘
-                    ▼
-             ┌─────────────┐
-             │   SERVER    │
-             │    Linux    │
-             └─────────────┘
-
----
-
-🧰 Tools I Enjoy
-
-Python       → AI / automation / backend
-Rust         → systems / performance / security
-C++          → performance / low-level experiments
-FastAPI      → APIs
-Textual      → terminal interfaces
-Ollama       → local LLM experimentation
-Git          → version control
-GitHub       → collaboration / open source
-Docker       → reproducible environments
-Linux        → development environment
-Neovim       → coding
-tmux         → terminal workflow
-
----
-
-🖥️ TUI Projects
-
-One of my favorite areas is Terminal User Interfaces.
-
-I'm experimenting with:
-
-"TUI DE"
-
-«A terminal-only desktop environment concept.»
-
-Ideas include:
-
-- Login screen
-- Desktop-like terminal workspace
-- File manager
-- Terminal
-- System monitor
-- Settings
-- Notifications
-- Web search
-- Developer tools
-- Server monitoring
-
-Built around the idea:
-
-No heavy GUI. Just a powerful terminal.
-
----
-
-🌐 Open Source Philosophy
-
-I believe software becomes more interesting when people can:
-
-Read it
-   ↓
-Understand it
-   ↓
-Modify it
-   ↓
-Experiment with it
-   ↓
-Build something better
-
-My goal is to build projects that are:
-
-- 🔓 Open-source
-- 🧩 Modular
-- 🛠️ Practical
-- 🧪 Experimental
-- 📚 Educational
-- 🔐 Privacy-conscious
-- 🐧 Linux-friendly
-
----
-
-📚 Currently Learning
-
-AI Engineering
-████████████████░░░░
-
-Agentic AI
-██████████████░░░░░░
-
-Machine Learning
-██████████████░░░░░░
-
-Systems Programming
-███████████░░░░░░░░░
-
-Rust
-████████░░░░░░░░░░░
-
-DSA / OOP / SQL
-████████████░░░░░░░░
-
-Research
-██████████░░░░░░░░░░
-
----
-
-🏗️ Projects & Experiments
-
-🤖 Personal AI / Jarvis
-
-Modular AI assistant architecture with local models, memory, RAG and tools.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=%24+neofetch+ironman;Linux+%7C+Python+%7C+Rust+%7C+AI;Terminal+%3E+GUI;Build+systems%2C+not+just+screens." /></div>I enjoy building Terminal User Interfaces and Linux-first systems.
 
 🖥️ TUI DE
 
-Terminal-based desktop environment experimentation using Python/Textual.
+A terminal-only desktop environment concept exploring:
 
-🧠 AI + Neuromorphic Computing
+LOGIN
+  ↓
+DESKTOP
+  ├── Terminal
+  ├── File Manager
+  ├── System Monitor
+  ├── Web Search
+  ├── Settings
+  ├── Notifications
+  └── Developer Tools
 
-Concept-oriented exploration of architectures combining AI with neuromorphic computing.
-
-🔬 AI Research Experiments
-
-Exploring model specialization, sub-agents, simulation environments and knowledge transfer.
-
-📊 Machine Learning Projects
-
-Working with real datasets, preprocessing, candidate generation, embeddings and model training.
-
-🌐 Student Developer Projects
-
-Building practical tools, static websites and AI-assisted development workflows for students.
+Goal: make the terminal feel like an entire operating environment.
 
 ---
 
-📈 GitHub Activity
+🧪 "05 // RESEARCH LAB"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ironman42801-cloud&show_icons=true&theme=transparent&hide_border=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=ironman42801-cloud&theme=transparent&hide_border=true" /></div>---
+<table>
+<tr>
+<td width="33%" align="center">🧠
 
-🐍 Contribution Snake
+AI MEMORY
 
-<div align="center"><img src="https://raw.githubusercontent.com/ironman42801-cloud/ironman42801-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
+RAG
+Embeddings
+Knowledge Graphs
+Long-term Context
 
-🎯 Long-Term Direction
+</td><td width="33%" align="center">🧬
 
-2026
- │
- ├── AI / ML fundamentals
- ├── Git + GitHub + Open Source
- ├── Linux + Systems
- ├── Agentic AI
- └── Build real projects
-        │
-        ▼
-2027
- │
- ├── Advanced AI engineering
- ├── Research
- ├── Open-source contributions
- └── Larger AI systems
-        │
-        ▼
-2028
- │
- ├── Production AI
- ├── Specialized agents
- ├── Systems + AI
- └── Research projects
-        │
-        ▼
-2029
- │
- └── Build reliable real-world AI systems
+AI ARCHITECTURES
+
+Sub-brains
+Specialization
+Branching Systems
+Model Transfer
+
+</td><td width="33%" align="center">⚡
+
+EMERGING COMPUTING
+
+Neuromorphic AI
+Alternative Architectures
+AI + Hardware
+Simulation
+
+</td>
+</tr>
+</table>«Concept → Architecture → Prototype → Experiment → Measure → Improve»
 
 ---
 
-⚡ My Builder Mindset
+🧰 "06 // TECH STACK"
 
-              IDEA
-                │
-                ▼
-           ┌─────────┐
-           │ EXPLORE │
-           └────┬────┘
-                │
-                ▼
-           ┌─────────┐
-           │ BUILD   │
-           └────┬────┘
-                │
-                ▼
-           ┌─────────┐
-           │ TEST    │
-           └────┬────┘
-                │
-                ▼
-           ┌─────────┐
-           │ BREAK   │
-           └────┬────┘
-                │
-                ▼
-           ┌─────────┐
-           │ LEARN   │
-           └────┬────┘
-                │
-                ▼
-           ┌─────────┐
-           │ REBUILD │
-           └────┬────┘
-                │
-                └──────────────► 🚀
+<div align="center">LANGUAGES
 
-«"Don't just learn technology. Build something with it."»
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,bash,sql&theme=dark" />AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,numpy&theme=dark" />DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,fastapi&theme=dark" />LINUX / TERMINAL
+
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,neovim&theme=dark" /></div><br><div align="center">"Python" · "Rust" · "C++" · "SQL" · "Bash"
+
+"Ollama" · "RAG" · "LLMs" · "Embeddings" · "Agents"
+
+"FastAPI" · "Git" · "GitHub" · "GitLab" · "Docker"
+
+"Linux" · "Neovim" · "tmux" · "fzf" · "ripgrep" · "yazi" · "lazygit"
+
+</div>---
+
+🚀 "07 // CURRENT BUILDS"
+
+<table>
+<tr>
+<td width="50%" valign="top">🤖 JARVIS
+
+Personal AI architecture
+
+"Ollama"
+"RAG"
+"Memory"
+"Tools"
+"Agents"
+
+</td><td width="50%" valign="top">🖥️ TUI DE
+
+Terminal desktop environment
+
+"Python"
+"Textual"
+"Linux"
+"Terminal"
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">🧠 AI RESEARCH
+
+Experimental AI architectures
+
+"Agents"
+"Sub-brains"
+"Simulation"
+"Neuromorphic"
+
+</td><td width="50%" valign="top">📊 ML PROJECTS
+
+Real-world ML experimentation
+
+"Data Processing"
+"Candidate Generation"
+"Embeddings"
+"Model Training"
+
+</td>
+</tr>
+</table>---
+
+🌌 "08 // MY WORKFLOW"
+
+<div align="center">       ╭────────────╮
+       │    IDEA    │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │   EXPLORE  │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │    BUILD   │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │    TEST    │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │    BREAK   │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │   LEARN    │
+       ╰─────┬──────╯
+             ↓
+       ╭────────────╮
+       │   REBUILD  │
+       ╰─────┬──────╯
+             │
+             └───────────────→ ⚡
+
+</div>---
+
+📊 "09 // GITHUB SIGNAL"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ironman42801-cloud&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5B642&text_color=9CA3AF&icon_color=F5B642&include_all_commits=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironman42801-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=F5B642&text_color=9CA3AF" width="42%"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=ironman42801-cloud&hide_border=true&background=00000000&ring=F5B642&fire=F5B642&currStreakLabel=F5B642&sideLabels=9CA3AF&dates=666666" width="70%"/></div>---
+
+🐍 "10 // CONTRIBUTION MATRIX"
+
+<div align="center"><img src="https://raw.githubusercontent.com/ironman42801-cloud/ironman42801-cloud/output/github-contribution-grid-snake-dark.svg" width="90%"/></div>---
+
+🎯 "11 // DIRECTION"
+
+<div align="center"><table>
+<tr>
+<td align="center">2026
+
+AI / ML
+Linux
+Git
+Open Source
+Agentic AI
+
+</td><td align="center">→</td><td align="center">2027
+
+Advanced AI
+Research
+Systems
+Open Source
+
+</td><td align="center">→</td><td align="center">2028+
+
+Production AI
+Specialized Agents
+AI Systems
+Research
+
+</td>
+</tr>
+</table></div>---
+
+🔓 "12 // OPEN SOURCE"
+
+I want my projects to be:
+
+<div align="center">"OPEN"  ✦  "MODULAR"  ✦  "PRACTICAL"  ✦  "EXPERIMENTAL"
+
+"PRIVACY-CONSCIOUS"  ✦  "LINUX-FRIENDLY"  ✦  "EDUCATIONAL"
+
+</div>---
+
+🤝 "13 // LET'S BUILD"
+
+Interested in collaborating around:
+
+"AI/ML" · "Agentic AI" · "RAG" · "Local LLMs"
+
+"Linux" · "Systems" · "TUI" · "Open Source"
+
+"AI Research" · "Neuromorphic Computing"
 
 ---
 
-🤝 Let's Build
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2500,50:151515,100:050505&height=130&section=footer&animation=fadeIn"/>⚡ IRONMAN
 
-I'm interested in collaborating on:
+AI • SYSTEMS • OPEN SOURCE • RESEARCH
 
-- 🤖 AI / ML
-- 🧠 Agentic AI
-- 🔎 RAG systems
-- 🐧 Linux / Systems
-- 🖥️ TUI applications
-- 🔓 Open-source projects
-- 🧪 Experimental architectures
-- 🔬 AI research
-- ⚡ AI + emerging computing
+<br>"BUILD → EXPERIMENT → LEARN → REBUILD"
 
-If you're building something interesting, let's experiment.
-
----
-
-<div align="center">⚡ IRONMAN
-
-"AI • Systems • Open Source • Research"
-
-Build → Experiment → Learn → Repeat
-
-<br/><img src="https://komarev.com/ghpvc/?username=ironman42801-cloud&style=flat-square&color=orange" alt="Profile views"/></div>
+<br><img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge&labelColor=111111&color=F5B642"/></div>
